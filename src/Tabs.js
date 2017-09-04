@@ -264,4 +264,5 @@ Tabs.STATE = {
 	}
 };
 
+export { Tabs };
 export default Tabs;
